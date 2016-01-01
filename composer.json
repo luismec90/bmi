@@ -1,0 +1,12 @@
+{
+    "name": "montoya/bmi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Montoya",
+            "email": "luismec90@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
